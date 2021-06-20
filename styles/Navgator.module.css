@@ -1,0 +1,21 @@
+.navgator {
+  position: relative;
+  z-index: 10;
+  width: 100vw;
+  height: 160px;
+  background-color: blueviolet;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navlist {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.listItems {
+  list-style: none;
+  margin: 1rem;
+}
